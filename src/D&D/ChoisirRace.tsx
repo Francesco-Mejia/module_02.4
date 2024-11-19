@@ -25,7 +25,7 @@ export function ChoisirRace(props: ChoisirRaceProps) {
                 src="nain.jpg"
                 height="200"
                 alt="nain"
-                onClick={() => props.choisirRace("nain")}
+                onClick={() => props.choisirRace("nain")} //nain
               />
             </td>
             <td align="center">
